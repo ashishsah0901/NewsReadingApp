@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NewsShare</string>
+    <string name="search">Search...</string>
+    <string name="source">SOURCE</string>
+    <string name="title">TITLE</string>
+    <string name="description">DESCRIPTION</string>
+    <string name="published_at">PUBLISHED AT</string>
+    <string name="failed_to_connect">Failed to connect</string>
+    <string name="Retry">Retry</string>
+    <string name="Failed_to_connect">Failed_to_connect</string>
+</resources>
